@@ -48,6 +48,8 @@ import 'package:riverpod/riverpod.dart';
 
 
 NOTE: The below code doesnt work. It is only for reference purposes only
+Problem: ProviderScope not working 
+
 Link: Reso Coder: Riverpod 2.0 – Complete Guide (Flutter Tutorial)
   https://youtu.be/Zp7VKVhirmw?si=AsDW3aRKgCp1rWkp
   link2(notes): https://resocoder.com/2022/04/22/riverpod-2-0-complete-guide-flutter-tutorial/
